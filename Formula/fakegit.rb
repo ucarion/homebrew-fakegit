@@ -1,8 +1,8 @@
 class Fakegit < Formula
   desc "A fake git, to demonstrate github.com/ucarion/cli"
   homepage "https://github.com/ucarion/fakegit"
-  url "https://github.com/ucarion/fakegit/releases/download/v0.1.11/fakegit_darwin_amd64.zip"
-  sha256 "c155c3ca17a64da7861301eed7e889c339ffbd572e501be39084229174395115"
+  url "https://github.com/ucarion/fakegit/releases/download/v0.1.15/fakegit_darwin_amd64.zip"
+  sha256 "a1057a0bc0cc1fccdd0dce0a815a8e10c5ff1c0ba59f5fc6c2dcdcb9096147df"
   license "MIT"
 
   def install
